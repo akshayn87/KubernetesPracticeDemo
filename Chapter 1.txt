@@ -1,0 +1,25 @@
+Understand Fundamentals of Devops
+Basic concepts of Docker 
+Containerization with kubernetes,load balancing and pods etc
+Infrastructure as code
+Terraform Google cloud servers
+Anisible
+
+Continuous Integration and Continuous deployment and Delivery 
+azure Devops 
+pipelines
+Jenkins 
+Microservices with Kubernetes clusters
+
+Jenkins
+ci and cd tools
+plugins
+scripted and declarative pipeline 
+
+GitHub Repository 
+in28minutes/devops-master-class
+
+GitHub.com/in28minutes/devops-master-class 
+
+Along with Devops you will learn multicloud with AWS
+Azure and Google Cloud
